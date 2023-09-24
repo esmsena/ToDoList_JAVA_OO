@@ -20,7 +20,7 @@ Este é um projeto de lista de tarefas desenvolvido em Java Orientado a objeto, 
 1. Clone este repositório em sua máquina local:
 
    ```shell
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   https://github.com/esmsena/ToDoList_JAVA_OO.git
    ```
 
 2. Abra o projeto em sua IDE Java.
