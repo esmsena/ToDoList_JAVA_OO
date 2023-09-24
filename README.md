@@ -70,6 +70,6 @@ Se você deseja contribuir para este projeto, siga os passos:
 
 ## Contato
 
-Para sugestões, dúvidas ou problemas relacionados ao projeto, entre em contato com Esther sena, através do email esthersena.jd@gmail.com.
+Para sugestões, dúvidas ou problemas relacionados ao projeto, entre em contato com [Esther sena](https://github.com/esmsena), através do email esthersena.jd@gmail.com.
 
 ```
